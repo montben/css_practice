@@ -1,0 +1,36 @@
+body {
+    font-family: arial, verdana;
+    background-color: #000000;
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+ h1 {
+    padding: 15px;
+    text-align: center;
+    font-size: 42px;
+
+ }
+ h2 {
+    color: #0D0D0D;
+
+ }
+ p {
+    font-size: 24px;
+    padding-top: 10px;
+    padding-left: 10px;
+
+ }
+ img {
+    width: 250px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border: dashed #FFFFFF 10px;
+ }
+ div {
+    height: 150px;
+    padding: 20px;
+    border: solid #FFFFFF 3px;
+ }
